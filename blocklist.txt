@@ -1,0 +1,9 @@
+# ===============
+# Eine Blocklist für
+# ein paar Domains.
+# Überarbeite ich nicht oft.
+# By Spleezzer
+# ===============
+
+# [Freshworks]
+0.0.0.0 fwtracks.freshmarketer.com
